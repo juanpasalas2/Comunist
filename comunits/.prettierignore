@@ -1,0 +1,15 @@
+```
+
+## Archivo de ignorar
+
+Crea un `.prettierignore` para excluir archivos que no quieres formatear:
+```
+node_modules
+dist
+build
+coverage
+.next
+*.min.js
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
